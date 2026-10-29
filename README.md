@@ -38,13 +38,6 @@
 - 💻 **CodeGear** — Real-Time Technical Interview & Coding Assessment Platform
 - 🛒 **False Review Detection System** — Machine Learning-based fake review detection
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pragyanmohanta90&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyanmohanta90&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
 ### 🔥 Contribution Streak
 
 <p align="center">
